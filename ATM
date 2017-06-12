@@ -163,7 +163,7 @@ catch(InputMismatchException ex)
                atm.saveaccts();
                
                System.out.println("**Account Closed Successfully**");
-               System.out.println("Thank you for choosing the destruction Vladimir Putin's bank account");
+               System.out.println("Thank you for choosing Vladimir Putin's bank account");
             }
         }
     while(input != 5);
