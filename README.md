@@ -5,4 +5,4 @@ As a beginner software developer, I had no prior experience in coding until thes
 
 The ATM project is my second project in Java, and functions as a virtual ATM prompting the user to create up to 3 new accounts, load them, and do a variety of functions on each, wehether deposit, withdrawl, or checking balance, automatically compounding interest on the balance.
 
-***Please note that the text found within this system is simply for parody purposes and does not reflect the opinions of me, or my associates at my university.***
+***Please note that the text found within this system is simply for parody purposes and does not reflect the opinions of me, my associates, or professors at my university.***
